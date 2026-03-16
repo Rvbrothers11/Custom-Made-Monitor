@@ -1,0 +1,8 @@
+﻿Bill of Materials,,,,
+Name,Purpose,Cost (USD),Quantity,Distributor
+Laptop Stand,Acts as a laptop stand for my monitor to mount on top of.,$4.10,1,Amazon.in
+3D printed cover for screen,The main enclosure for the screen as the main base of the monitor.,$24.99,1,Robu.in
+Power Adapter,"This part powers the whole product with the help of a 12V, 2A power adapter.",$2.11,1,Amazon.in
+HDMI Cable,This cable connects the monitor to my computer in order for the screen to work.,$1.39,1,Amazon.in
+NT140WHM-N44 LCD display controller driver board,"The purpose of this part is to help control what the LCD screen displays. This LCD controller board acts as a translator and bridge between a video source (like a computer, Raspberry Pi, or media player) and an LCD panel. It converts raw video signals into a format that the screen can understand to display images.",$75.46,1,Desertcart.in
+Total Estimated Cost (USD): $108.05,,,,
