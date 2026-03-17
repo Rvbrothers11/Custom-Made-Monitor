@@ -6,7 +6,8 @@ This project utilizes an LCD screen extracted from a broken laptop, which is con
 I am a huge fan of repurposing broken materials (especially focused on technology). When my laptop's mother board broke, I thought it was gone forever. However, after some research I found out that I could reuse the screen and make a monitor. This allowed me to revive some part of my laptop. My reason for the project was also fuelled by my curiosity of CAD modelling and 3D printing. While I have never modelled before on applications like SolidWorks or Autodesk Fusion, I have a very basic knowledge with the help of tinkercad. This project will allow me to learn new CAD modelling platforms such as the one mentioned above while also learning more about sustainability and technology repurposing.  
 
 **Pictures of the Project:**
-
+<img width="1056" height="1050" alt="Image" src="https://github.com/user-attachments/assets/e1681fcc-b778-4fba-a958-e2dabaffda92" />
+<img width="1169" height="1112" alt="Image" src="https://github.com/user-attachments/assets/9aaf8833-61fa-4c78-a8f2-c7f2cdf30570" />
 
 
 ### Bill of Materials
