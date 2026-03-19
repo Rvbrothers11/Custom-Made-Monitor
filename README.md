@@ -15,7 +15,7 @@ I am a huge fan of repurposing broken materials (especially focused on technolog
 | Name | Purpose | Cost (USD) | Quantity | Distributor |
 | :--- | :--- | :--- | :--- | :--- |
 | **Laptop Stand** | Acts as a laptop stand for my monitor to mount on top of. | $4.10 | 1 | Amazon.in |
-| **3D printed cover** | The main enclosure for the screen as the main base of the monitor. | $24.99 | 1 | Robu.in |
+| **3D printed cover** | The main enclosure for the screen as the main base of the monitor. | $8 | 1 | Printing Legion - Souptik Samanta |
 | **Power Adapter** | Powers the whole product with a 12V, 2A adapter. | $2.11 | 1 | Amazon.in |
 | **HDMI Cable** | Connects the monitor to the computer. | $1.39 | 1 | Amazon.in |
 | **LCD Controller Board** | Translates video signals for the LCD panel (NT140WHM-N44). | $68.54 | 1 | Desertcart.in |
